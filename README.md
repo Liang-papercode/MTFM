@@ -1,6 +1,6 @@
 # MTFM
 multi-dimensional (2D and 3D) kernel two-stage deep-learning high-precision seismic fault recognition method 
-Requirements: python3.6, tensorflow1.11.0, keras2.2.4, numpy1.15.2,Segyio,cv2,matplotlib,tqdm
+Requirements: python, tensorflow, keras, numpy,Segyio,cv2,matplotlib,tqdm
 
 train.py is a file used for data training.
 
