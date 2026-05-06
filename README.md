@@ -14,3 +14,4 @@ train.py is Network training code
 
 
 Model download: https://pan.baidu.com/s/1rt3YJEb0MklLtz0zWnVJKA?pwd=9b67
+<img width="450" height="325" alt="image" src="https://github.com/user-attachments/assets/d44696ca-6a51-4c2a-8115-038ab4e16cff" />
