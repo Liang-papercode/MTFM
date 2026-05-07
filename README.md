@@ -11,8 +11,10 @@ model2D.py is 2D convolution kernel network
 
 model3D.py is 3D convolution kernel network
 
-train.py is Network training code
 
 Due to data size limitation
 Model download: https://pan.baidu.com/s/1rt3YJEb0MklLtz0zWnVJKA?pwd=9b67
 
+
+
+fault_180_220_150 and seismic_180_220_150 is the test example 
