@@ -13,7 +13,7 @@ def main():
 
 def goTrain():
   # input image dimensions
-  params = {'batch_size':4,
+  params = {'batch_size':1,
           'dim':(128,128,128),
           'n_channels':1,
           'shuffle': True}
